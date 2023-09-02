@@ -1,6 +1,6 @@
 import java.applet.Applet;  
 import java.awt.Graphics;  
-public class example extends Applet
+public class example1 extends Applet
 {  
 public void paint(Graphics g)
 {  
