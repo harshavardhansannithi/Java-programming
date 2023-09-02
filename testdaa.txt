@@ -1,0 +1,10 @@
+bubble sort
+graph coloring
+
+
+merge sort
+optimal cost
+
+
+min and max
+strrens multiplication
